@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# config files, different form each OS
+ShadowEvaluation/config.py
